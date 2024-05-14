@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.banner{
+    width: auto;
+}
+
+.banner-description{
+    background-image: url('../Images/Banner\ Image.png');
+    height: 600px;
+    width: 1320px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
+
+.banner-info{
+    font-size: 32px;
+    color: #ffffff;
+    padding-top: 200px;
+}
