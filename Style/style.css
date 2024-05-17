@@ -159,3 +159,77 @@ body{
 .invitation-info{
     padding-top: 110px;
 }
+
+.offer{
+    width: 1320px;
+    height: 463px;
+    margin-top: 100px;
+    margin: auto;
+}
+
+.offer-title{
+    color: #FF0000;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.offer-time{
+    color: #070211;
+    font-size: 48px;
+    margin: auto;
+}
+
+.offer-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.offer-colomn{
+    width: 393px;
+    height: 255px;
+    margin-right: 20px;
+    padding-top: 60px;
+    margin-left: 20px;
+}
+
+.offer-description{
+    width: 393px;
+    height: 128px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.offer-image{
+    width: 364px;
+    height: 364px;
+    border: 10px solid #FF0000;
+    border-radius: 50%;
+    padding: 20px;
+
+}
+
+.offer-img{
+   margin-right: 20px;
+}
+
+.year{
+    padding-top: 60px;
+    margin-right: 20px;
+}
+
+.year-info{
+    color: #FF0000;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.year-description{
+    font-size: 20px;
+    line-height: 1.5;
+    width: 286px;
+}
+
+.year-img{
+    margin-top: 30px;
+    
+}
