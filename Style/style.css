@@ -233,3 +233,67 @@ body{
     margin-top: 30px;
     
 }
+
+.weekend{
+    width: 1320px;
+    height: 986px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.sale-info{
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.sale-title{
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+#holiday-color{
+    color: #FF0000;
+}
+
+.holiday-description{
+    font-size: 20px;
+    width: 1068px;
+    height: 96px;
+    margin: auto;
+}
+
+.holiday-images{
+    display: flex;
+    margin-top: 70px;
+    background-image: url('../Images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width: 1320px;
+    margin-left: 15px;
+}
+
+.holiday-images-1{
+    width: 674px;
+    height: 577px;
+    margin-right: -100px;
+    padding-top: 50px;
+}
+
+.holiday-images-2{
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 115px;
+    z-index: 2;
+    
+}
+.holiday-images-3{
+    width: 429px;
+    height: 433px;
+    margin-left: 200px;
+    margin-top: -31px;
+    position: absolute;
+    z-index: 1;
+}
