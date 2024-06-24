@@ -414,3 +414,52 @@ body{
     margin-left: 790px;
     margin-top: -83px;
 }
+
+footer{
+    width: 1320px;
+    height: 609px;
+    background-color: #070211;
+    margin: auto;
+    color: white;
+}
+.contact{
+    width: 1185px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;  
+    margin-bottom: 50px;  
+}
+
+.contact-address{
+    margin-left: 100px;
+    width: 400px;
+    height: 100px;
+    font-size: 24px;
+
+}
+
+.contact-number{
+    margin-right: 200px;
+}
+
+.line-info{
+   background-color: rgba(255, 255, 255, 0.192);
+   height: 0px;
+}
+
+.social-icons{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.social-icon{
+    margin-right: 20px;
+}
+
+.copy-right{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
