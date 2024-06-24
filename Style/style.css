@@ -297,3 +297,120 @@ body{
     position: absolute;
     z-index: 1;
 }
+
+.gift-area{
+    width: 1320px;
+    height: 1163px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.pic{
+    width: 424px;
+    height: 450px;
+    margin-right: 5px; 
+}
+
+.gift-title{
+    font-size: 24px;
+    color: #FF0000;
+    margin-bottom: 10px;
+}
+
+.gift-info{
+    font-size: 48px;
+    color: #070211;
+    margin-bottom: 10px;
+}
+
+.gift-description{
+    font-size: 20px;
+    color: #070211;
+    width: 896px;
+    height: 64px;
+    margin-bottom: 30px;
+}
+
+.gift-img-1{
+    margin-bottom: 20px;
+}
+
+.pic{
+    transition: 1s ease;
+}
+
+.pic:hover{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: 1s ease;
+}
+
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    margin: auto;
+    background-color: pink;
+    opacity: .7;
+    margin-bottom: 100px;
+}
+
+.newsletter{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.news-pic{
+    margin-bottom: 50px;
+}
+
+.news-title{
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.news-description{
+    font-size: 20px;
+    margin-right: 212px;
+    margin-left: 212px;
+    margin-bottom: 40px;
+}
+
+.email{
+    text-align: center;
+       
+}
+
+.subscribe-email{
+    background-color: #ffffff;
+    color: black;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-color: white;
+    width: 648px;
+    height: 72px;
+    padding-left: 15px;
+    border-width: 0px;
+    margin-bottom: 10px;
+}
+
+.subscribe-btn{
+    width: 210px;
+    height: 72px;
+    background-color: #FF0000;
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-color: white;
+    border-width: 0px;
+    margin-bottom: 10px;
+    
+}
+
+.sub-btn{
+    margin-left: 790px;
+    margin-top: -83px;
+}
